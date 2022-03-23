@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Escuela/AndroidApps/MarsPhotosApp/app/src/main/res/drawable/ic_broken_image.xml" value="0.172" />
         <entry key="..\:/Escuela/AndroidApps/MarsPhotosApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Escuela/AndroidApps/MarsPhotosApp/app/src/main/res/layout/fragment_overview.xml" value="0.25416666666666665" />
         <entry key="..\:/Escuela/AndroidApps/MarsPhotosApp/app/src/main/res/layout/grid_view_item.xml" value="0.25416666666666665" />
